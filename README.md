@@ -41,7 +41,7 @@ pip install .
 Here’s a quick example to get you started with TempMail:
 
 ```python
-import TempMail
+from TempMail import TempMail
 
 # Initialize the TempMail object
 tm = TempMail()
