@@ -31,7 +31,7 @@ Welcome to the TempMail library documentation! This guide will walk you through 
 You can install the TempMail library via pip. Ensure that you have Python 3.6+ installed.
 
 ```bash
-pip install TempMail
+pip install .
 ```
 
 ---
